@@ -1,13 +1,84 @@
-body {
+@import url(https://fonts.googleapis.com/css2?family=Roboto+Slab);
+
+
+
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Roboto Slab', serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 80%;
+  margin: 0 auto;
+  border-bottom: 1px solid black; 
+}
+
+.navbar .links {
+  margin-left: auto;
+}
+
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+  color: black;
+}
+
+.navbar a:hover {
+  color:pink; 
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+
+}
+
+.aboutme {
+  display:flex;
+  justify-content: center;
+  width: 500px; 
+  color: black; 
+}
+
+img {
+  
+  width: 600px; 
+  height: 400px; 
+  border: solid black 10px; 
+  border-radius: 20px; 
+  margin-top: 20px;
+  margin-bottom: 30px;
+  
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  
+  padding: 10px;
+  max-width: 80%;
+  margin: 0 auto; 
+  border-top: solid 1px black;
+
+ 
+  
+}
+
+ul {
+  list-style-type: none;
+
+}
+
+.footer a {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+ 
 }
