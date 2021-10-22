@@ -5,6 +5,7 @@ import Projects from './components/Projects';
 import Resume from './components/Resume';
 import Skills from './components/Skills';
 import Contact from './components/Contact';
+import banner from './Images/erinArt.png';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'; 
 
 
@@ -18,7 +19,7 @@ function App() {
     
       
       <Navbar />
-      <img className='banner' src='./erinArt.png' alt='banner'></img>
+      <img className='banner' src={banner} alt='banner'/>
       
       <Switch>
         <Route exact path='/'>
