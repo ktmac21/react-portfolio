@@ -1,3 +1,5 @@
+import { FcViewDetails } from 'react-icons/fc';
+
 const Resume = () => {
 
     return (
@@ -14,22 +16,48 @@ const Resume = () => {
 
                 <h2>Education</h2>
 
-                <p>University of Pennsylvania LPS Coding Bootcamp</p>
-                <p>-Full Stack Web Development</p>
+                <p>University of Pennsylvania</p>
+                <p> LPS Coding Bootcamp</p>
+                <p>Full Stack Web Development</p>
 
                 <p>Bloomsburg University</p>
-                <p>-Bachelor of Arts in Criminal Justice</p>
-                <p>-Cum Lade</p>
+                <p>Bachelor of Arts in Criminal Justice</p>
+                <p>Cume Lade</p>
+                
+                
+
+                
             </div>
 
-            <d className='card2'>
-               
-                <p>Underwriter</p>
-            </d>
+            <div className='card2'>
 
-            <d className='card2'>
-                <a href="EaglesResume.pdf" download="EaglesResume.pdf">Download Resume</a>
-            </d>
+                <h2>Experience</h2>
+
+                <p>Nationwide Insurance</p>
+                <p>Commercial Underwriting</p>
+                <p>Processing Specialist</p>
+
+                <p>Insurance</p>
+                <p>Underwriting</p>
+             
+                
+
+                
+            </div>
+
+             <div className='card2'>
+
+                <h2>Resume</h2>
+
+                <p className='color'>Check it out</p>
+                <a className='resume' href="EaglesResume.pdf" download="EaglesResume.pdf"><FcViewDetails /></a>
+                
+
+                
+            </div>
+
+
+         
 
 
 

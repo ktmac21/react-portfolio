@@ -22,7 +22,7 @@ function App() {
       <img className='banner' src={banner} alt='banner'/>
       
       <Switch>
-        <Route exact path='/react-portfolio'>
+        <Route exact path='/'>
           <About />
         </Route>
         <Route exact path='/about'>
