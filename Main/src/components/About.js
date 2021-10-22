@@ -16,7 +16,7 @@ const About = () => {
                 Take a look at my current projects below. If you want to learn more please don't hesitate to contact me.</p>
             
             <Link to='/projects'>
-            <img className='about'src='./projects.png' alt='me'></img>
+            <img className='about'src='./public/projects.png' alt='art'></img>
             </Link>
         </div>
     )
