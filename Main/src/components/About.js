@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'; 
-import projects from './Images/projects.png';
+import projects from '../Images/projects.png';
 const About = () => {
     
     return (
