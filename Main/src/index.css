@@ -39,6 +39,16 @@
 
 }
 
+.flex1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  width: 75%
+
+
+}
+
 .flex2 {
   display: flex;
   flex-wrap: wrap;
@@ -81,9 +91,6 @@ ul {
   text-decoration: none;
   color: black;
   font-size: 30px;
-
-  
- 
 }
 
 .container {
@@ -122,6 +129,7 @@ ul {
   
 }
 .card2 {
+  
   background-color: rgb(222, 231, 222);
   text-align: center;
   border-radius: 5px;
@@ -158,6 +166,7 @@ a {
   border-radius: 3px;
   width: 90%;
   height: 75%; 
+  padding-bottom: 10px;
 }
 
 .banner {
@@ -178,8 +187,9 @@ h2,
 h3,
 p {
   text-align: center;
-  padding-top: 10px; 
+  padding-bottom: 15px;
 }
+
 
 .contacts {
   font-size: 150px;
@@ -192,17 +202,22 @@ p {
   margin-bottom: 20px;
 }
 
-.resume {
-  font-size: 200px;
-
-}
 
 .resume:hover {
-  box-shadow: 0 5px 15px white;
+  text-decoration: underline;
 }
 
-.card1:hover {
-  box-shadow: 0 5px 15px grey;
+
+.resumepic {
+  padding-top: 20px;
+}
+
+.project-img:hover {
+  box-shadow: 0 5px 15px black;
+}
+
+.rep:hover {
+  text-decoration: underline;
 }
 
 .card3:hover {
@@ -213,6 +228,10 @@ p {
   box-shadow: 0 5px 15px black;
 }
 
-.color {
-  color: rgb(78, 18, 28); 
+.color:hover {
+  text-decoration: underline;
+}
+
+.experience {
+  font-size: 13px;
 }
