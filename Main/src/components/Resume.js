@@ -22,7 +22,7 @@ const Resume = () => {
 
                 <p>Bloomsburg University</p>
                 <p>Bachelor of Arts in Criminal Justice</p>
-                <p>Cume Lade</p>
+                <p>Cume Laude</p>
                 
                 
 
@@ -38,7 +38,7 @@ const Resume = () => {
                 <p>Processing Specialist</p>
 
                 <p>Insurance</p>
-                <p>Underwriting</p>
+                
              
                 
 

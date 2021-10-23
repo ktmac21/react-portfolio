@@ -110,18 +110,19 @@ ul {
 
   text-align: center;
   border-radius: 2px;
-  background-color: white; 
+  background-color: rgb(222, 231, 222); 
   color: black;
-  height: 500px; 
-  width: 600px; 
+  height: 300px; 
+  width: 400px; 
   margin-bottom: 20px; 
+  margin-right: 20px; 
   margin-top: 20px;
   padding: 2px 2px 2px 2px;
-  box-shadow: 0 0 10px 2px;
+ 
   
 }
 .card2 {
-  background-color: rgb(214, 214, 235);
+  background-color: rgb(222, 231, 222);
   text-align: center;
   border-radius: 5px;
   color: black; 
@@ -198,6 +199,14 @@ p {
 
 .resume:hover {
   box-shadow: 0 5px 15px white;
+}
+
+.card1:hover {
+  box-shadow: 0 5px 15px grey;
+}
+
+.card3:hover {
+  box-shadow: 0 5px 15px grey;
 }
 
 .color {
