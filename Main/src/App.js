@@ -5,7 +5,7 @@ import Projects from './components/Projects';
 import Resume from './components/Resume';
 import Skills from './components/Skills';
 import Contact from './components/Contact';
-import banner from './Images/erinArt.png';
+import banner from './Images/banner.png';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'; 
 
 

@@ -1,4 +1,5 @@
 import { FcViewDetails } from 'react-icons/fc';
+import resume from '../../src/EaglesResume.pdf';
 
 const Resume = () => {
 
@@ -50,7 +51,7 @@ const Resume = () => {
                 <h2>Resume</h2>
 
                 <p className='color'>Check it out</p>
-                <a className='resume' href="EaglesResume.pdf" download="EaglesResume.pdf"><FcViewDetails /></a>
+                <a className='resume' href={resume} download="EaglesResume.pdf"><FcViewDetails /></a>
                 
 
                 
