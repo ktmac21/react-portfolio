@@ -13,14 +13,14 @@ const Resume = () => {
             <div className='container3'>
                 <div className='card2'>
                     <h2>Education</h2>
-                    <img src={penn} alt='penn' />
+                    <img className='logos'src={penn} alt='penn' />
                     <ul className='flex1 experience'>
                         <li>University of Penn's</li>
                         <li>LPS Coding Bootcamp</li>
                         <li>Full Stack Web Development</li>
                         <br/>
                     </ul>
-                    <img src={bloom} alt='bloom' />
+                    <img className='logos' src={bloom} alt='bloom' />
                     <ul className='flex1 experience'>
                         <li>Bloomsburg University</li>
                         <li>Bachelor of Arts in Criminal Justice</li>
@@ -30,7 +30,7 @@ const Resume = () => {
 
                 <div className='card2'>
                     <h2>Experience</h2>
-                    <img src={nationwide} alt='nationwide' />
+                    <img className='logos'src={nationwide} alt='nationwide' />
                     <ul className='flex1 experience'>
                         <li>Nationwide Insurance</li>
                         <li>10 years Commercial Underwriting</li>
@@ -39,7 +39,7 @@ const Resume = () => {
                 </div>
                 <div className='card2'>
                     <h2>Resume</h2>
-                    <a className='resume' href={resume} download="EaglesResume.pdf">Download here</a>
+                    <a className='resume flex1' href={resume} download="EaglesResume.pdf">Download here</a>
                     <img className='resumepic' src={icon} alt='resume' width='200' height='200' />
                 </div>
             </div>
