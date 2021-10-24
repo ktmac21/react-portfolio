@@ -1,7 +1,5 @@
 @import url(https://fonts.googleapis.com/css2?family=Roboto+Slab);
 
-
-
 * {
   margin: 0;
   font-family: 'Roboto Slab', serif;
@@ -39,14 +37,6 @@
 
 }
 
-.flex1 {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-top: 20px;
-  width: 75%
-}
-
 .flex2 {
   display: flex;
   flex-wrap: wrap;
@@ -55,8 +45,6 @@
 }
 
 .aboutme {
-  display: flex;
-  justify-content: center;
   width: 500px; 
   color: black; 
 }
@@ -83,6 +71,8 @@
 
 ul {
   list-style-type: none;
+  
+ 
 }
 
 .footer a {
@@ -122,7 +112,8 @@ ul {
   margin-bottom: 20px; 
   margin-right: 20px; 
   margin-top: 20px;
-  padding: 2px 2px 2px 2px;
+  padding-top: 10px;
+  
  
   
 }
@@ -131,12 +122,12 @@ ul {
   flex-direction: column;
   align-items: center;
   background-color: rgb(222, 231, 222);
-  text-align: center;
   border-radius: 2px;
   color: black; 
   font-size: 15px;
   height: 450px; 
   width: 300px; 
+  margin-right: 15px;
   margin-bottom: 10px; 
   margin-top: 10px;
   padding-top: 20px; 
@@ -165,6 +156,7 @@ a {
   border-radius: 3px;
   width: 90%;
   height: 75%; 
+  padding-top: 10px; 
   padding-bottom: 10px;
 }
 
@@ -183,12 +175,17 @@ a {
 }
 h1,
 h2, 
-h3,
-p {
+h3
+ {
+  padding-top: 10px; 
+  padding-bottom: 5px;
   text-align: center;
-  padding-bottom: 15px;
+  
 }
 
+h3 {
+  color: rgb(52, 52, 100);
+}
 
 .contacts {
   font-size: 150px;
@@ -200,9 +197,6 @@ p {
   margin-top: 20px; 
   margin-bottom: 20px;
 }
-
-
-
 
 .resume:hover {
   text-decoration: underline;
@@ -233,9 +227,12 @@ p {
   text-decoration: underline;
 }
 
-.experience {
-  font-size: 13px;
+.logos {
+  padding-top: 10px; 
 }
+
+
+
 
 @media screen and (max-width: 750px) {
 
@@ -245,13 +242,14 @@ p {
   }
   .card1 {
    
-    width: 150px;
-    height: 150px;
-    font-size: 10px;
+    width: 200px;
+    height: 200px;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 15px;
   }
 
   .icons {
-
   width: 100px;
   height: 100px; 
 
@@ -259,13 +257,22 @@ p {
 }
   .card2 {
     width: 200px;
-    height: 300px;
+    height: 320px;
+    font-size: 12px;
+    text-align: center;
+    
+  
+  }
+
+  .card3 {
+    height: 150px; 
   }
 
   .container3 {
     
     flex-direction: column;
     align-items: center;
+    
   }
 
   .banner {
@@ -282,15 +289,14 @@ p {
     border-radius: 2px;
   }
 .aboutme {
-    font-size: 10px; 
-    margin-left: 150px;
-    margin-right: 150px;
+    font-size: 15px; 
+    width: 300px; 
   }
 
   .card3 {
     width: 200px;
-    height: 300px; 
-    font-size: 10px;
+    height: 225px; 
+    font-size: 15px;
   }
 
 
@@ -302,12 +308,9 @@ p {
     height: 50px;
     width: 100px;
   }
-  .experience {
-    font-size: 10px;
-    margin-right: 40px;
-    
   
-  }
+  
+  
   .flex2 {
     display: flex;
     flex-direction: column;
@@ -315,7 +318,8 @@ p {
     margin-left: 20px; 
 
   }
-
-  
   
 }
+  
+  
+

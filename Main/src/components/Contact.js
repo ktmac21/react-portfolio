@@ -8,7 +8,7 @@ const Contact = () => {
 
         <div>
             <h1>Get in Touch</h1>
-            <p>Interested in learning more about my education or experience?</p>
+            <h3>Interested in learning more about my education or experience?</h3>
            
             <div className='container'>
                 <div className='card3'>
