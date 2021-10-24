@@ -21,6 +21,7 @@ In this week's homework my task was to create my own project page using React an
 
 ## Screenshot
 
+![Screen Shot 2021-10-23 at 10 26 29 PM](https://user-images.githubusercontent.com/83046421/138577684-a619bdf8-b895-4b80-8552-49afd3cbadc2.png)
 
 
 
