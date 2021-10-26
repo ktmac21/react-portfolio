@@ -39,7 +39,7 @@ https://ktmac21.github.io/react-portfolio/
 
 ## Usage
 
-When the user opens the page they are present with a single-page web application created using React.
+When the user opens the page they are presented with a single-page web application created using React.
 
 ## Questions
 
