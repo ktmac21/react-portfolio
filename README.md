@@ -21,10 +21,7 @@ In this week's homework my task was to create my own project page using React an
 
 ## Screenshot
 
-![Screen Shot 2021-10-23 at 10 26 29 PM](https://user-images.githubusercontent.com/83046421/138577684-a619bdf8-b895-4b80-8552-49afd3cbadc2.png)
-
-
-
+![Screen Shot 2021-10-26 at 2 15 06 PM](https://user-images.githubusercontent.com/83046421/138937305-1a2cf4b0-6242-4fbd-96bd-e52b058c3b8d.png)
 
 ## Deployment
 
@@ -42,7 +39,7 @@ https://ktmac21.github.io/react-portfolio/
 
 ## Usage
 
-When the user opens the page they are present with a single-page web application created using React.
+When the user opens the page they are presented with a single-page web application created using React.
 
 ## Questions
 
