@@ -36,7 +36,7 @@ const Resume = () => {
                 <div className='card2'>
                     <h2>Resume</h2>
                     <a className='resume' href={resume} download="EaglesResume.pdf"><img className='resumepic' src={icon} alt='resume' width='200' height='200' /></a>
-                    <img className='resumepic' src={icon} alt='resume' width='200' height='200' />
+                    
                 </div>
             </div>
         </div>
