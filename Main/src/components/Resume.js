@@ -28,14 +28,14 @@ const Resume = () => {
                     <h2>Experience</h2>
                     <img className='logos'src={nationwide} alt='nationwide' />
                     <h3>Nationwide Insurance Company</h3>
-                    <p>10 years Commercial Underwriting</p>
-                    <p>5 years Processing Specialist</p>
+                    <p>Commercial Underwriting</p>
+                    
                     
                 </div>
                 
                 <div className='card2'>
                     <h2>Resume</h2>
-                    <a className='resume' href={resume} download="EaglesResume.pdf">Download here</a>
+                    <a className='resume' href={resume} download="EaglesResume.pdf"><img className='resumepic' src={icon} alt='resume' width='200' height='200' /></a>
                     <img className='resumepic' src={icon} alt='resume' width='200' height='200' />
                 </div>
             </div>
