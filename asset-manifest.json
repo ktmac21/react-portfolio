@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.407eb6b6.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.9931285b.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.9931285b.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.f29dbf9b.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.e3839b85.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.e3839b85.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.ea4d0584.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.ea4d0584.js.map",
     "static/js/2.d24cecba.chunk.js": "/react-portfolio/static/js/2.d24cecba.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.69885c92.chunk.js": "/react-portfolio/static/js/3.69885c92.chunk.js",
     "static/js/3.69885c92.chunk.js.map": "/react-portfolio/static/js/3.69885c92.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/main.407eb6b6.chunk.css.map": "/react-portfolio/static/css/main.407eb6b6.chunk.css.map",
+    "static/css/main.f29dbf9b.chunk.css.map": "/react-portfolio/static/css/main.f29dbf9b.chunk.css.map",
     "static/js/2.d24cecba.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.d24cecba.chunk.js.LICENSE.txt",
-    "static/media/EaglesResume.f57d0650.pdf": "/react-portfolio/static/media/EaglesResume.f57d0650.pdf",
+    "static/media/EaglesResume.cfa90d4a.pdf": "/react-portfolio/static/media/EaglesResume.cfa90d4a.pdf",
     "static/media/NFLbets.2242af9d.png": "/react-portfolio/static/media/NFLbets.2242af9d.png",
     "static/media/banner.8217e04e.png": "/react-portfolio/static/media/banner.8217e04e.png",
     "static/media/editor.88596996.png": "/react-portfolio/static/media/editor.88596996.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.ea4d0584.js",
     "static/js/2.d24cecba.chunk.js",
-    "static/css/main.407eb6b6.chunk.css",
-    "static/js/main.9931285b.chunk.js"
+    "static/css/main.f29dbf9b.chunk.css",
+    "static/js/main.e3839b85.chunk.js"
   ]
 }
