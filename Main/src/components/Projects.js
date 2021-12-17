@@ -2,7 +2,7 @@ import blog from '../Images/techBlog.png';
 import nfl from '../Images/NFLbets.png';
 import quiz from '../Images/quiz.png';
 import streamin from '../Images/streamin.png';
-import getfit from '../Images/getfit.png';
+import marioKart from '../Images/marioKart.png';
 import editor from '../Images/editor.png';
 
 const Projects = () => {
@@ -55,9 +55,9 @@ const Projects = () => {
 
             <div className='card1'>
                 
-                <a href=" https://shielded-atoll-65455.herokuapp.com/">Get Fit Tracker
-                <img className='project-img' src={getfit} alt='quiz'/></a>
-                <a className='rep' href="https://github.com/ktmac21/get-fit-tracker">Github Repository</a>
+                <a href="https://ktmac21.github.io/Kates-portfolio-page/">Mario Portfolio Page
+                <img className='project-img' src={marioKart} alt='quiz'/></a>
+                <a className='rep' href="https://github.com/ktmac21/Kates-portfolio-page">Github Repository</a>
                 
             </div>
             
