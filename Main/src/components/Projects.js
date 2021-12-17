@@ -56,7 +56,7 @@ const Projects = () => {
             <div className='card1'>
                 
                 <a href="https://ktmac21.github.io/Kates-portfolio-page/">Mario Portfolio Page
-                <img className='project-img' src={marioKart} alt='quiz'/></a>
+                <img className='project-img' src={marioKart} alt='marioKart'/></a>
                 <a className='rep' href="https://github.com/ktmac21/Kates-portfolio-page">Github Repository</a>
                 
             </div>
