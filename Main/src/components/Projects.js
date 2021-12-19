@@ -3,7 +3,7 @@ import nfl from '../Images/NFLbets.png';
 import quiz from '../Images/quiz.png';
 import streamin from '../Images/streamin.png';
 import marioKart from '../Images/marioKart.png';
-import editor from '../Images/editor.png';
+import forced from '../Images/forced.png';
 
 const Projects = () => {
 
@@ -25,7 +25,7 @@ const Projects = () => {
             <div className='card1'>
                 
                 <a href="https://stark-escarpment-53173.herokuapp.com/">Forced Fun
-                <img className='project-img' src={editor} alt='forced-fun'/></a>
+                <img className='project-img' src={forced} alt='forced-fun'/></a>
                 <a className='rep' href="https://github.com/ktmac21/Engagement-Question-Generator">Github Repository</a>
                 
             </div>
