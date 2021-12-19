@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.4616d7e8.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.1b28204b.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.1b28204b.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.c12cad48.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.c12cad48.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.ea4d0584.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.ea4d0584.js.map",
     "static/js/2.d24cecba.chunk.js": "/react-portfolio/static/js/2.d24cecba.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/EaglesResume.cfa90d4a.pdf": "/react-portfolio/static/media/EaglesResume.cfa90d4a.pdf",
     "static/media/NFLbets.2242af9d.png": "/react-portfolio/static/media/NFLbets.2242af9d.png",
     "static/media/banner.8217e04e.png": "/react-portfolio/static/media/banner.8217e04e.png",
-    "static/media/editor.88596996.png": "/react-portfolio/static/media/editor.88596996.png",
+    "static/media/forced.c4aded6a.png": "/react-portfolio/static/media/forced.c4aded6a.png",
     "static/media/marioKart.1fc3187d.png": "/react-portfolio/static/media/marioKart.1fc3187d.png",
     "static/media/penn.efa7d791.png": "/react-portfolio/static/media/penn.efa7d791.png",
     "static/media/projects.c8fb2e2c.png": "/react-portfolio/static/media/projects.c8fb2e2c.png",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.ea4d0584.js",
     "static/js/2.d24cecba.chunk.js",
     "static/css/main.4616d7e8.chunk.css",
-    "static/js/main.1b28204b.chunk.js"
+    "static/js/main.c12cad48.chunk.js"
   ]
 }
