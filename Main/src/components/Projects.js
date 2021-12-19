@@ -24,9 +24,9 @@ const Projects = () => {
 
             <div className='card1'>
                 
-                <a href=" https://fierce-temple-71813.herokuapp.com/">Progressive Text Editor
-                <img className='project-img' src={editor} alt='editor'/></a>
-                <a className='rep' href="https://github.com/ktmac21/progressive-text-editor">Github Repository</a>
+                <a href="https://stark-escarpment-53173.herokuapp.com/">Forced Fun
+                <img className='project-img' src={editor} alt='forced-fun'/></a>
+                <a className='rep' href="https://github.com/ktmac21/Engagement-Question-Generator">Github Repository</a>
                 
             </div>
             </div>
